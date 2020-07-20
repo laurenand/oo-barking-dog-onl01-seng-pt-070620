@@ -10,6 +10,6 @@ end
 fido=Dog.new
 fido.name="Fido"
 
-def fido.bark 
+def Dog.bark 
   puts "Woof!"
 end

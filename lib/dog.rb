@@ -4,12 +4,11 @@ class Dog
   end
   def name
     @this_dogs_name
-  end
+  enddef bark 
+  puts "woof!"
+end
 end
 
 fido=Dog.new
 fido.name="Fido"
 
-def bark 
-  puts "woof!"
-end

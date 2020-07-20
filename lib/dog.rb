@@ -12,5 +12,4 @@ fido.name="Fido"
 
 fido.bark 
   puts "Woof!"
-end
   
